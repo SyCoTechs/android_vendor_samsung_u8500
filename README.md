@@ -1,5 +1,6 @@
 android_vendor_samsung_u8500-common
 ===================================
+WIP
 
 Vendor repo for Samsung U8500 devices
 
